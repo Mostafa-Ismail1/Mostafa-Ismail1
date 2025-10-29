@@ -5,10 +5,22 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Mostafa-Ismail/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Backend%20Developer;FastAPI%20%26%20PostgreSQL;Always%20Learning;Teaching%20Coding&font=Fira%20Code&center=true&width=440&height=45&color=00C2CB&vCenter=true&pause=1000&size=22" />
+  <a href="https://github.com/Mostafa-Ismail">
+    <img src="https://cdn-icons-png.flaticon.com/512/2721/2721264.png" alt="Mostafa Ismail Logo" width="200"/>
   </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/Mostafa-Ismail/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Backend%20Developer;PostgreSQL;Teaching%20Coding&font=Fira%20Code&center=true&width=440&height=45&color=00C2CB&vCenter=true&pause=1000&size=22" />
+  </a>
+</p>
+
+<h3 align="center">Hey Friends 👋 Welcome to my GitHub profile!</h3>
+
+<p align="center">💻 Backend Developer</p>
+
+<p align="center"><i>The most important thing is the ability to learn and expand knowledge.</i></p>
 
 <!-- 🌐 Social Links -->
 <p align="center">
