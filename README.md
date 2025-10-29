@@ -5,37 +5,21 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Mostafa-Ismail">
-    <img src="https://cdn-icons-png.flaticon.com/512/2721/2721264.png" alt="Mostafa Ismail Logo" width="200"/>
-  </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/Mostafa-Ismail/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Backend%20Developer;PostgreSQL;Teaching%20Coding&font=Fira%20Code&center=true&width=440&height=45&color=00C2CB&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Backend%20Developer;SQL;ASP.NET;Lifelong%20Learner&font=Fira%20Code&center=true&width=440&height=45&color=00C2CB&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
-<h3 align="center">Hey Friends 👋 Welcome to my GitHub profile!</h3>
+<h3 align="center"> Welcome to my GitHub profile!</h3>
 
 <p align="center">💻 Backend Developer</p>
 
 <p align="center"><i>The most important thing is the ability to learn and expand knowledge.</i></p>
 
-<!-- 🌐 Social Links -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/mostafa-ismail-11603a36b"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;
-  <a href="https://t.me/M0STAFA_ISMAIL"><img width="32px" alt="Telegram" title="Telegram" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png"/></a>
-  &#8287;&#8287;&#8287;
-  <a href="mailto:mostafamimh1123@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/></a>
-</p>
-
-<br/>
 
 <!-- 🧾 Quick Info -->
 <p align="center">
-  <b>💻 Backend Developer | AI Graduate | Coding Instructor</b><br>
+  <b>💻 Junior Backend Developer | Lifelong Learner | Passionate about Clean and Structured Code </b><br>
   📧 Email: <a href="mailto:mostafamimh1123@gmail.com">mostafamimh1123@gmail.com</a><br>
   🎓 Faculty of Computers and Information, Zagazig University — Class of 2024
 </p>
