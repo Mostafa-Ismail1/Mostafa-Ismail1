@@ -26,8 +26,8 @@
     <img alt="Telegram" title="Message me on Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="https://github.com/Mostafa-Ismail1">
     <img alt="GitHub" title="Visit my GitHub Profile" src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:mostafamimh1123@gmail.com">
-    <img alt="Email" title="Send me an email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mostafamimh1123@gmail.com" target="_blank">
+  <img alt="Email" title="Send me an email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   <a href="https://komarev.com/ghpvc/?username=Mostafa-Ismail">
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=Mostafa-Ismail&style=for-the-badge&color=orange"/></a>
 </p>
