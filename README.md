@@ -25,7 +25,6 @@
 <p align="center">
   <b>💻 Backend Developer | AI Graduate | Coding Instructor</b><br>
   📧 Email: <a href="mailto:mostafamimh1123@gmail.com">mostafamimh1123@gmail.com</a><br>
-  📱 Phone: +20 01013298984<br>
   🎓 Faculty of Computers and Information, Zagazig University — Class of 2024
 </p>
 
