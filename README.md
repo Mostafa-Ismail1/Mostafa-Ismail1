@@ -109,7 +109,7 @@ Faculty of Computers and Information, **Zagazig University**
 
 ### 📊 GitHub Stats
 <p align="center">
-  <a href="https://github.com/Mostafa-Ismail">
+  <a href="https://github.com/Mostafa-Ismail1">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mostafa-Ismail&show_icons=true&theme=tokyonight&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Ismail&layout=compact&theme=tokyonight"/>
   </a>
@@ -119,7 +119,7 @@ Faculty of Computers and Information, **Zagazig University**
 
 ### 🔥 Streak Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mostafa-Ismail&theme=tokyonight&hide_border=true" alt="streak stats"/>
+  <img src="https://streak-stats.demolab.com?user=Mostafa-Ismail1&theme=tokyonight&hide_border=true" alt="streak stats"/>
 </p>
 
 ---
@@ -130,4 +130,4 @@ Faculty of Computers and Information, **Zagazig University**
 
 ---
 
-<p align="center">⭐️ From <a href="https://github.com/Mostafa-Ismail">Mostafa Ismail</a></p>
+<p align="center">⭐️ From <a href="https://github.com/Mostafa-Ismail1">Mostafa Ismail1</a></p>
