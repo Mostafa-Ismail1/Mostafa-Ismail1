@@ -24,7 +24,7 @@
     <img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://t.me/M0STAFA_ISMAIL">
     <img alt="Telegram" title="Message me on Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="https://github.com/Mostafa-Ismail">
+  <a href="https://github.com/Mostafa-Ismail1">
     <img alt="GitHub" title="Visit my GitHub Profile" src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="mailto:mostafamimh1123@gmail.com">
     <img alt="Email" title="Send me an email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
